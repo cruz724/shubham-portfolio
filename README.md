@@ -1,68 +1,26 @@
-# Cleanfolio
+# Shubham's Portfolio
 
-Cleanfolio is a portfolio template built with React. However, if you prefer a template built with HTML, CSS, and JavaScript, you can check out [Cleanfolio Minimal](https://github.com/rjshkhr/cleanfolio-minimal).
+This is my personal portfolio website built with React.  
+It showcases my skills, projects, and professional experience.
 
 ## Preview
 
-[![Imgur](https://imgur.com/FwDMNEM.gif)](https://rjshkhr.github.io/cleanfolio)
+[Live Portfolio](https://cruz724.github.io/shubham-portfolio)
 
-[Live Demo](https://rjshkhr.github.io/cleanfolio)
+## How to View Locally
 
-## Instructions
+1. Clone this repository:
+git clone https://github.com/cruz724/shubham-portfolio.git
+cd shubham-portfolio
 
-### Setup
+2. Install dependencies:
+npm install
 
-```shell
-git clone https://github.com/rjshkhr/cleanfolio
-cd cleanfolio
-```
+3. Start the development server:
+npm start
 
-If you use [nvm](https://github.com/nvm-sh/nvm) or [fnm](https://github.com/Schniz/fnm), execute:
+The site will open in your browser at http://localhost:3000.
 
-```shell
-nvm install
-nvm use
-```
+---
 
-Or:
-
-```shell
-fnm install
-fnm use
-```
-
-To install and launch the project, run these commands:
-
-```shell
-yarn
-yarn start
-```
-
-### How to Use
-
-- Open the `public/index.html` file and replace:
-
-`<title>John Smith</title>` with `<title>Your Name</title>`.
-
-- Open the `src/portfolio.js` file and make the necessary changes.
-
-### Deployment
-
-- In the `package.json` file, update:
-
-`"homepage": "https://rjshkhr.github.io/cleanfolio"`
-
-to `"homepage": "https://yourusername.github.io"`.
-
-- Push the changes to your repository.
-
-- To build and deploy, run the following commands:
-
-```shell
-yarn build
-yarn deploy
-```
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
+© 2025 Shubham. All rights reserved.
